@@ -3,11 +3,12 @@ ipunb files can be opened using Jupyter Notebook and Google Colab(my personal fa
 use MS Excel for .csv files.
 More stuff will be added soon :)
 
-Do I play Football?
--No
-Do I love Football?
--No
-Do I regularly watch FIFA World Cup matches?
--Yes
-Why am I doing this project?
--I love building stuff
+###QnA
+1. Do I play Football?
+- No
+2. Do I love Football?
+- No
+3. Do I regularly watch FIFA World Cup matches?
+- Yes
+4. Why am I doing this project?
+- I love building stuff
