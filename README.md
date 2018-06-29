@@ -3,7 +3,7 @@ ipunb files can be opened using Jupyter Notebook and Google Colab(my personal fa
 use MS Excel for .csv files.
 More stuff will be added soon :)
 
-###QnA
+### QnA
 1. Do I play Football?
 - No
 2. Do I love Football?
