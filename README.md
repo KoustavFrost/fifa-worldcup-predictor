@@ -1,5 +1,6 @@
 If you are new to ipynb and csv files, don't worry.
-ipunb files can be opened using Jupyter Notebook and Google Colab(my personal fav but not using for this project) and use MS Excel for .csv files.
+ipunb files can be opened using Jupyter Notebook and Google Colab(my personal fav but not using for this project) and 
+use MS Excel for .csv files.
 More stuff will be added soon :)
 
 Do I play Football?
